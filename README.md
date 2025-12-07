@@ -8,10 +8,7 @@ Visualize your TypeScript codebase as a class diagram. Instantly understand depe
 
 ## Download
 
-| Platform | Download |
-|----------|----------|
-| **macOS** | [Download .dmg](https://github.com/kitsune8848/W/releases/latest) |
-| **Windows** | [Download .exe](https://github.com/kitsune8848/ts-dependency-visualizer/releases/latest) |
+https://github.com/kitsune8848/ts-dependency-visualizer/releases/tag/v1.0.0
 
 ## Pricing
 
